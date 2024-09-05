@@ -1,0 +1,1 @@
+https://tailwindcss.com/docs/gradient-color-stops#customizing-your-theme
